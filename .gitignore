@@ -1,0 +1,6 @@
+inst/doc
+.idea
+vignettes/*.html
+vignettes/*.R
+.Rhistory
+.RData
